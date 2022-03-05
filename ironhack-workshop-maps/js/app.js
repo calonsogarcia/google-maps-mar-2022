@@ -1,6 +1,5 @@
-let map
+let map;
 
 function printInitialMap() {
-
-    console.log('ESTAMOS READY!')
+  console.log("ESTAMOS READY!");
 }
